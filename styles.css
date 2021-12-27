@@ -1,0 +1,53 @@
+body{
+	margin: 0;
+	text-align: center;
+	background-image: url("images/img1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Quando";
+	font-weight: bold;
+}
+
+.welcome{
+	padding-top: 10%;
+	font-size: 3rem;
+}
+
+.hlink{
+	padding-top: 10%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+
+.lin{
+	font-size: 1.5rem;
+	margin: 40px;
+}
+
+.bibles{
+	background-color: #40E0D0;
+}
+
+.bible-text{
+	font-size: 1rem;
+	padding-top: 10%;
+}
+
+
+#meeting_links{
+	padding-top: 10%;
+}
+
+#contact{
+	text-align: center;
+	padding: 20% 15% 2%; 
+}
+
+.face{
+	color: #000;
+	margin: 20px 10px;
+}
